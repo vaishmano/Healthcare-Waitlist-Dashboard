@@ -11,6 +11,10 @@ Main Features:
 - Age profile distribution (0-15, 16-64, 65+)
 - Specialty-specific wait time insights (e.g., Cardiology, ENT)
 - Detailed view with filters for date, case type, age group, specialty
+<img width="1919" height="996" alt="Screenshot 2025-08-02 001437" src="https://github.com/user-attachments/assets/7be3840f-52ec-471a-8700-3baaaa8a9774" />
+<img width="1911" height="990" alt="Screenshot 2025-08-02 001515" src="https://github.com/user-attachments/assets/a61c8e4c-6d3e-4aa8-901d-6307f8d793b7" />
+
+
 
 Pages:
 1. Summary Page - High-level KPIs and visual trends
